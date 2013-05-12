@@ -19,6 +19,17 @@ console.log(licence1)
 console.log(licence2)
 ```
 
+## Command line
+
+`mit` can also be used as a command line tool. Example of usage follows:
+
+```
+npm -g install mit
+mit "David Björklund"
+mit "David Björklund" 2012-2013
+
+```
+
 ## Licence
 
 Copyright (c) 2013 David Björklund
