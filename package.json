@@ -1,0 +1,19 @@
+{
+  "name": "mit",
+  "author": "David Björklund <david.bjorklund@gmail.com> (http://davidbjorklund.se)",
+  "description": "Create the MIT-licence",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/kesla/mit.git"
+  },
+  "main": "mit.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "licence": "MIT",
+  "keywords": [
+    "open source",
+    "legal",
+    "licence"
+  ]
+}
