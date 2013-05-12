@@ -27,7 +27,6 @@ console.log(licence2)
 npm -g install mit
 mit "David Björklund"
 mit "David Björklund" 2012-2013
-
 ```
 
 ## Licence
