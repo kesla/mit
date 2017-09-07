@@ -2,7 +2,7 @@
   "name": "mit",
   "author": "David Björklund <david.bjorklund@gmail.com> (http://davidbjorklund.se)",
   "description": "Create the MIT-licence",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "repository": {
     "url": "git://github.com/kesla/mit.git"
   },
