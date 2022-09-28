@@ -21,13 +21,17 @@ console.log(licence2)
 
 ## Command line
 
-`mit` can also be used as a command line tool. Example of usage follows:
+`mit` can also be used as a command line tool. First navigate to the folder where you want to add the license file. Example of usage follows:
 
 ```
 npm -g install mit
 mit "David Björklund"
+
+# If you want to add a particular year run this instead
+
 mit "David Björklund" 2012-2013
 ```
+These commands will generate a License file in the desired directory.
 
 ## Licence
 
